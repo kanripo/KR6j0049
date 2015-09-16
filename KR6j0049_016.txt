@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:25.903699
+#+DATE: 2015-08-30 20:24:35.723352
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0049_T_016-0392c> ¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
 ¶
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第十六¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -220,11 +219,7 @@
 #+END_VERSE
 」¶
 
-12一切金剛部金剛曼拏羅廣大儀軌分
-:PROPERTIES:
-:head: 一切金剛部金剛曼拏羅廣大儀軌分第十二
-:END:
-¶
+一切金剛部金剛曼拏羅廣大儀軌分第十二¶
 
 爾時世尊。復入一切如來金剛總持三昧出¶
 生加持三摩地。說此自部最上大明曰。¶
@@ -313,7 +308,7 @@
 
 最勝金剛大魔主。說此大明曰。¶
 
-唵(引)嚩日囉(二合)阿波囉(引)𡁠帝(引)吽(引一句)¶
+唵(引)嚩日囉(二合)阿波囉(引)[口*爾]帝(引)吽(引一句)¶
 
 如是等金剛大魔主。三昧印明。¶
 

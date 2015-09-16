@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:25.540018
+#+DATE: 2015-08-30 20:24:35.303245
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0049_T_003-0346b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第三¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
