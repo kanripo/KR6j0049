@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:26.235917
+#+DATE: 2015-08-30 20:24:30.341170
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0049_T_026-0426c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第二十六¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -380,7 +379,7 @@
 
 #+BEGIN_VERSE
 「　大忿怒王三摩地
-　當結三昧邪勝印¶
+　當結三昧耶勝印¶
 　此佛菩提大智門
 　如應觀想得成就
 #+END_VERSE
@@ -392,7 +391,7 @@
 
 #+BEGIN_VERSE
 「　觀自在尊三摩地
-　作羯磨印當持誦¶
+　作羯摩印當持誦¶
 　此佛菩提大智門
 　如應觀想得成就
 #+END_VERSE
@@ -684,7 +683,7 @@
 如上是為諸部加護印成就教理。¶
 
 爾時金剛手菩薩摩訶薩。前白佛言。世尊我¶
-向所說一切如來諸部最上成就教理。願佛¶
+向所說一如來諸部最上成就教理。願佛¶
 攝受。令諸有情於一切教中證法自在。速疾¶
 成就阿耨多羅三藐三菩提果。¶
 
