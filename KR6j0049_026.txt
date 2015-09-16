@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:26.235917
+#+DATE: 2015-08-30 20:24:31.823705
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6j0049_T_026-0426c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第二十六¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -270,7 +269,7 @@
 #+END_VERSE
 」¶
 
-此佛所說金剛藏法門。¶
+此佛所說金剛藏法。¶
 
 #+BEGIN_VERSE
 「　本尊加持等和合
@@ -576,7 +575,7 @@
 #+BEGIN_VERSE
 「　無惡可制無忿怒
 　亦無有情可調伏¶
-　以己苦法皆施他
+　以己苦法背施他
 　即降三世破諸惡
 #+END_VERSE
 」¶

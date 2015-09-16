@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:26.373891
+#+DATE: 2015-08-30 20:24:31.956136
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6j0049_T_030-0442a> 
 #+PROPERTY: JUAN 30
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第三十¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -255,7 +254,7 @@
 
 #+BEGIN_VERSE
 「　大金剛界大薩埵
-　利益有情最上主¶
+　利益有情最上王¶
 　具大智慧釋迦王
 　稽首歸命金剛身¶
 　勇猛出生真實利
@@ -265,7 +264,7 @@
 　具諸佛法廣大法
 　善轉一切法輪者¶
 　大語最上極妙明
-　稽首歸命大真實¶
+　稽首歸命太真實¶
 　作大羯磨大加護
 　一切羯磨成就者¶
 　大勇最上大行尊
@@ -649,5 +648,4 @@
 三昧攝。自下四分。並諸部祕密教理所攝¶
 起。¶
 
-皇朝大中祥符五年八月十五日終八年四¶
-月十六日
+皇朝大中祥符五年八月十五日終八年四月十六日

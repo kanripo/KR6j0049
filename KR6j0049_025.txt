@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:26.205294
+#+DATE: 2015-08-30 20:24:31.792281
 #+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
 #+PROPERTY: CBETA_ID T18n0882
 #+PROPERTY: ID KR6j0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 882
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6j0049_T_025-0424b> ¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 佛說一切如來真實攝大乘現證¶
+佛說一切如來真實攝大乘現證¶
 三昧大教王經卷第二十五¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -290,7 +289,7 @@
 
 #+BEGIN_VERSE
 「　大印依法而相合
-　是中發生於耳識¶
+　是中發生於眼識¶
 　彼一切事隨所思
 　一切極遠能聞聽
 #+END_VERSE
@@ -349,7 +348,7 @@
 　隨其所說貪染法
 　如教次第亦復然¶
 　天眼智等法相應
-　即能成就神通事
+　即能成諸神通事
 #+END_VERSE
 」¶
 
@@ -479,7 +478,7 @@
 蓮華部三昧真實成就教理。¶
 
 #+BEGIN_VERSE
-「　薩哩嚩秫馱稱時
+「　薩哩嚩[禾*(尤-尢+木)]馱稱時
 　是中若自若他人¶
 　出生門等合相應
 　於一切處不捨離
@@ -518,7 +517,7 @@
 「　金剛薩埵大印契
 　依法結已當觀想¶
 　想在金剛薩埵前
-　速疾得彼勝悉地
+　道疾得彼勝悉地
 #+END_VERSE
 」¶
 
