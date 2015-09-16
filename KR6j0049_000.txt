@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說一切如來真實攝大乘現證三昧大教王經
+#+DATE: 2015-08-30 20:24:26.908934
+#+PROPERTY: JUAN 0
